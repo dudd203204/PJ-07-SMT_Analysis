@@ -1,0 +1,8 @@
+Ranking,Grouping_Expanded,Count,Avg_Hours,Avg_Days,Median_Hours,Median_Days,Min_Hours,Max_Hours
+33,Notification Failures,6,1238.26,51.59,551.66,22.99,116.0,3716.62
+46,Timeline for new feature,1,1204.42,50.18,1204.42,50.18,1204.42,1204.42
+45,Request to deactivate template,1,862.87,35.95,862.87,35.95,862.87,862.87
+25,Create new app,9,841.16,35.05,603.25,25.14,120.9,2019.82
+1,Server issue,327,762.37,31.77,530.13,22.09,2.32,3089.68
+27,Error display,7,597.73,24.91,282.78,11.78,0.42,1517.08
+32,"CR MD, Form",6,540.26,22.51,168.92,7.04,15.22,1457.87
